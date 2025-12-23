@@ -7,3 +7,5 @@ The player controls the character, overcomes obstacles, fights enemies, and coll
 <p align="center">
 <img src="https://github.com/user-attachments/assets/122433dd-ffef-4b08-ba18-d293edb88d47">
 </p>
+
+
