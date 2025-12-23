@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 14f57eb07779b5640b94ea1a7089c8c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6636957603738870837
+    second: male_hero-combo_3_end_0
+  - first:
+      213: -1312561918489925613
+    second: male_hero-combo_3_end_1
+  - first:
+      213: -2674944374364836345
+    second: male_hero-combo_3_end_2
+  - first:
+      213: 1821612904803966970
+    second: male_hero-combo_3_end_3
+  - first:
+      213: 2622384617751288451
+    second: male_hero-combo_3_end_4
+  - first:
+      213: -57080928467386056
+    second: male_hero-combo_3_end_5
+  - first:
+      213: -2110686033238886139
+    second: male_hero-combo_3_end_6
+  - first:
+      213: 5543582745483928823
+    second: male_hero-combo_3_end_7
+  - first:
+      213: -8059129529413783496
+    second: male_hero-combo_3_end_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackEnd-3_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ac485e88d25749b5a5672f8161002
+      internalID: -474946239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackEnd-3_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17453e699d74dbc4495784e83ade7faf
+      internalID: 909106595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackEnd-3_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be622c9c199b654887bd82642dda125
+      internalID: 802829823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackEnd-3_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 33
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347b9ae4645f0d84093df29db94c6ee3
+      internalID: -864961278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackEnd-3_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 33
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f647a1436b6c3049a9990adf4958a1b
+      internalID: -451091550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackEnd-3_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 33
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef07f2505db68848bffe36b8bcd1f44
+      internalID: -1919566196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78d82f6cfab6ff546b264333f5d61eac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":31.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.23499999940395356},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AttackEnd-3_0: -161752131
+      AttackEnd-3_1: -162280910
+      AttackEnd-3_10: 819582144
+      AttackEnd-3_11: 87143329
+      AttackEnd-3_12: -474946239
+      AttackEnd-3_13: 1742250079
+      AttackEnd-3_14: 909106595
+      AttackEnd-3_15: -745052072
+      AttackEnd-3_16: 802829823
+      AttackEnd-3_17: 1891581231
+      AttackEnd-3_18: -864961278
+      AttackEnd-3_19: 95854273
+      AttackEnd-3_2: 49465089
+      AttackEnd-3_20: -451091550
+      AttackEnd-3_21: 1498206872
+      AttackEnd-3_22: -1919566196
+      AttackEnd-3_23: -1364552086
+      AttackEnd-3_3: -275249109
+      AttackEnd-3_4: 937386520
+      AttackEnd-3_5: 1783112775
+      AttackEnd-3_6: -923253162
+      AttackEnd-3_7: -695950906
+      AttackEnd-3_8: 477016063
+      AttackEnd-3_9: 413230912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
